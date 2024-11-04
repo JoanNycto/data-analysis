@@ -1,0 +1,6 @@
+pandas==2.2.1
+matplotlib==3.8.3
+seaborn==0.13.2
+numpy==1.26.4
+babel==2.16.0
+streamlit==1.38.0
